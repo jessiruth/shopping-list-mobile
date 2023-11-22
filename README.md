@@ -1,5 +1,6 @@
-# shopping_list
+# shopping_list [![Build status](https://build.appcenter.ms/v0.1/apps/711a58bb-3f84-4710-8adf-41de2467f6b0/branches/main/badge)](https://appcenter.ms)
 
+[Public AppCenter link](https://install.appcenter.ms/orgs/jessiapp/apps/shopping-list/distribution_groups/public)
 A new Flutter project.
 
 ## Getting Started
